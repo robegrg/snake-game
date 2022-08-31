@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(201, 153, 75);
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#game {
+box-shadow: black 20px 10px 50px;
+}
